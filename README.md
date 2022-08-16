@@ -83,25 +83,25 @@ ________________________________________________________________________________
 ### Copiar o mover los archivos de configuración:
 
 
-mv ~/dotfiles/Wallpapers/  ~/Pictures/Wallpapers
+mv ~/bspwm-archlinux-dotfiles/Wallpapers/  ~/Pictures/Wallpapers
 
-mv ~/dotfiles/bspwm/bspwmrc  ~/.config/bspwm 
+mv ~/bspwm-archlinux-dotfiles/bspwm/bspwmrc  ~/.config/bspwm 
 
-mv ~/dotfiles/sxhkd/sxhkdrc  ~/.config/sxhkd
+mv ~/bspwm-archlinux-dotfiles/sxhkd/sxhkdrc  ~/.config/sxhkd
 
-mv ~/dotfiles/dunst/dunstrc  ~/.config/dunst
+mv ~/bspwm-archlinux-dotfiles/dunst/dunstrc  ~/.config/dunst
 
-mv ~/dotfiles/kitty/kitty.conf  ~/.config/kitty
+mv ~/bspwm-archlinux-dotfiles/kitty/kitty.conf  ~/.config/kitty
 
-mv ~/dotfiles/picom/picom.conf  ~/.config/picom
+mv ~/bspwm-archlinux-dotfiles/picom/picom.conf  ~/.config/picom
 
-mv ~/dotfiles/polybar  ~/.config/
+mv ~/bspwm-archlinux-dotfiles/polybar  ~/.config/
 
-mv ~/dotfiles/cava/config  ~/.config/cava
+mv ~/bspwm-archlinux-dotfiles/cava/config  ~/.config/cava
 
-sudo cp ~/dotfiles/Rofi/orgin.rasi  ~/usr/share/rofi/themes
+sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi  ~/usr/share/rofi/themes
 
-cp -R ~/dotfiles/.local/bin/*  ~/.local/bin/
+cp -R ~/bspwm-archlinux-dotfiles/bin/*  ~/.local/bin/
 
 chmod +x  ~/.config/bspwm/*
 
