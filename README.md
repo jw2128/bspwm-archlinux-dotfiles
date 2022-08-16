@@ -83,29 +83,29 @@ ________________________________________________________________________________
 ### Copiar o mover los archivos de configuración:
 
 
-mv ~/dotfiles/Wallpapers/ ~/Pictures/Wallpapers
+mv ~/dotfiles/Wallpapers/  ~/Pictures/Wallpapers
 
-mv ~/dotfiles/bspwm/bspwmrc ~/.config/bspwm 
+mv ~/dotfiles/bspwm/bspwmrc  ~/.config/bspwm 
 
-mv ~/dotfiles/sxhkd/sxhkdrc ~/.config/sxhkd
+mv ~/dotfiles/sxhkd/sxhkdrc  ~/.config/sxhkd
 
-mv ~/dotfiles/dunst/dunstrc ~/.config/dunst
+mv ~/dotfiles/dunst/dunstrc  ~/.config/dunst
 
-mv ~/dotfiles/kitty/kitty.conf ~/.config/kitty
+mv ~/dotfiles/kitty/kitty.conf  ~/.config/kitty
 
-mv ~/dotfiles/picom/picom.conf ~/.config/picom
+mv ~/dotfiles/picom/picom.conf  ~/.config/picom
 
-mv ~/dotfiles/polybar ~/.config/
+mv ~/dotfiles/polybar  ~/.config/
 
-mv ~/dotfiles/cava/config ~/.config/cava
+mv ~/dotfiles/cava/config  ~/.config/cava
 
-sudo cp ~/dotfiles/Rofi/orgin.rasi ~/usr/share/rofi/themes
+sudo cp ~/dotfiles/Rofi/orgin.rasi  ~/usr/share/rofi/themes
 
-cp -R ~/dotfiles/.local/bin/* ~/.local/bin/
+cp -R ~/dotfiles/.local/bin/*  ~/.local/bin/
 
-chmod +x ~/.config/bspwm/*
+chmod +x  ~/.config/bspwm/*
 
-chmod +x ~/.local/bin/*
+chmod +x  ~/.local/bin/*
 
 _________________________________________________________________________________________________________________________________________________________
 
