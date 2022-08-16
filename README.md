@@ -162,7 +162,7 @@ ________________________________________________________________________________
 
 ### Cambiar los colores de Polybar:
 
-Vaya a ~/.config/polybar/colors y edite cada color según sus preferencias. También puede usar Pywal para generar colores (basados ​​en su fondo de pantalla) para su barra y terminal.
+Vaya a **~/.config/polybar/colors** y edite cada color según sus preferencias. También puede usar Pywal para generar colores (basados ​​en su fondo de pantalla) para su barra y terminal.
 
 _________________________________________________________________________________________________________________________________________________________
 
