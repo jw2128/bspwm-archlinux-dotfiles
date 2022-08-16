@@ -155,7 +155,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________
 
 
-### estudie mi configuración de combinaciones de teclas sxhkdrc para que entienda cómo funciona cada cosa y donde llaman los scripts directo para el menú (power, wifi, captura de pantalla) etc. Puede modificar mi archivo sxhkdrc y ponerlo a su gusto y comodidad.
+### Estudie mi configuración de combinaciones de teclas sxhkdrc para que entienda cómo funciona cada cosa y donde llaman los scripts directo para el menú (power, wifi, captura de pantalla) etc. Puede modificar mi archivo sxhkdrc y ponerlo a su gusto y comodidad.
 
 _________________________________________________________________________________________________________________________________________________________
 
