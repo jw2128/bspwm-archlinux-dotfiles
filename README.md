@@ -173,6 +173,10 @@ Agregue lo que está debajo al final de su .bashrc, .zshrc, (o cualquiera que se
 ```
 cat ~/.cache/wal/sequences
 ```
+### para que funcione rofi con los temas debe instalar pywal desde pip3
+```
+pip install pywal
+```
 _________________________________________________________________________________________________________________________________________________________
 
 
