@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 ### Copiar o mover los archivos de configuración:
 
-
+```
 mv ~/bspwm-archlinux-dotfiles/Wallpapers/  ~/Pictures/Wallpapers
 
 mv ~/bspwm-archlinux-dotfiles/bspwm/bspwmrc  ~/.config/bspwm 
@@ -106,7 +106,7 @@ cp -R ~/bspwm-archlinux-dotfiles/bin/*  ~/.local/bin/
 chmod +x  ~/.config/bspwm/*
 
 chmod +x  ~/.local/bin/*
-
+```
 _________________________________________________________________________________________________________________________________________________________
 
 ## Dependencias: instale las que entienda que necesita.
