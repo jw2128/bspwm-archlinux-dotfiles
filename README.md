@@ -164,6 +164,10 @@ ________________________________________________________________________________
 
 Vaya a **~/.config/polybar/colors** y edite cada color según sus preferencias. También puede usar Pywal para generar colores (basados ​​en su fondo de pantalla) para su barra y terminal.
 
+### para que funcione rofi con los temas debe instalar pywal desde pip3
+```
+pip install pywal
+```
 _________________________________________________________________________________________________________________________________________________________
 
 
@@ -173,10 +177,7 @@ Agregue lo que está debajo al final de su .bashrc, .zshrc, (o cualquiera que se
 ```
 cat ~/.cache/wal/sequences
 ```
-### para que funcione rofi con los temas debe instalar pywal desde pip3
-```
-pip install pywal
-```
+
 _________________________________________________________________________________________________________________________________________________________
 
 
