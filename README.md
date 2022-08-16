@@ -1,7 +1,6 @@
-# Bspwm + Arch Linux
+# Bspwm + Arch Linux 🇩🇴
 
-Esta es mi configuracion personal de Arch Linux + Bspwm + Polybar
-
+- Esta es mi configuracion personal de Arch Linux + Bspwm + Polybar
 
 ![desktopJC](https://user-images.githubusercontent.com/64985138/184930438-87d16a57-daf7-4535-8b6c-3bbcacb7aee5.png)
 ![desktop4](https://user-images.githubusercontent.com/64985138/184930463-0ffd2238-3e08-4375-8165-03c81bf4aef7.png)
@@ -9,9 +8,9 @@ Esta es mi configuracion personal de Arch Linux + Bspwm + Polybar
 ![desktop7](https://user-images.githubusercontent.com/64985138/184930490-49dd6be4-7fea-4d02-9fde-a467b59cf8d1.png)
 
 
-Información Importante:
+# Información Importante:
 
-Esta configuracion de BSPWM + Polybar, es una creacion de los usuario (Santahgeo y mxhectorvega) yo solo clone y compile sus configuraciones y las modifique a mi gusto y preferencia. Si quieren ver las configuraciones de los autores originales, aqui les dejo el link de su perfil, para que los visiten y los apoyen con una estrella, gracias a ellos esta configuracion existe.
+Esta configuracion de BSPWM + Polybar, es una creacion de los usuario ( 🥷**Santahgeo** y 🥷**mxhectorvega**) yo solo clone y copie sus configuraciones y las modifique a mi gusto y preferencia. Si quieren ver las configuraciones de los autores originales, aqui les dejo el link de su perfil, para que los visiten y los apoyen con una estrella, gracias a ellos esta configuracion existe.
 
 https://github.com/Santahgeo/dotfiles
 
@@ -19,16 +18,17 @@ https://github.com/mxhectorvega/bspwm-arch
 
 
 
-Instalacion
+# Instalacion:
 
-sudo pacman -S polybar bspwm picom sxhkd rofi dunst kitty cava feh ttf-meslo-nerd-font-powerlevel10k nemo
+> **sudo pacman -S polybar bspwm picom sxhkd rofi dunst kitty cava feh ttf-meslo-nerd-font-powerlevel10k nemo**
 
 
-Opcional: Descargar picom-ibhagwan-git para difuminar y BetterlockScreen para una pantalla de bloqueo.
+## Opcional: Descargar picom-ibhagwan-git para difuminar y BetterlockScreen para una pantalla de bloqueo.
 
-yay -Syu picom-ibhagwan-git betterlockscreen
+> **yay -Syu picom-ibhagwan-git betterlockscreen**
 
-Asegúrese de instalar Iosveka Nerd Fonts 2.0 para que los íconos funcionen en polybar. Esto se puede encontrar en: https://sourceforge.net/projects/nerd-fonts.mirror/files/v2.0.0/
+
+## Asegúrese de instalar Iosveka Nerd Fonts 2.0 para que los íconos funcionen en polybar. Esto se puede encontrar en: https://sourceforge.net/projects/nerd-fonts.mirror/files/v2.0.0/
 
 También instala Melso-Nerd-Fonts si quieres que las fuentes correctas funcionen en Kitty
 
@@ -96,27 +96,27 @@ Ayuda y guía rápida:
 
 Abrir aplicaciones
 
-Kitty: súper + entrar
+- Kitty: súper + entrar
 
-Nautilus (Administrador de archivos): super + e
+- Nemo (Administrador de archivos): super + e
 
-Pantalla de bloqueo: alt + l
+- Pantalla de bloqueo: alt + l
 
-Rofi: súper + d
+- Rofi: súper + d
 
-Firefox: súper + w
+- Firefox: súper + w
 
 
 Control de ventana y teclas Bspwm:
 
 
-Aplicaciones de cierre: super + q
+- Aplicaciones de cierre: super + q
 
-Reiniciar Bspwm: super + alt + r
+- Reiniciar Bspwm: super + alt + r
 
-Salir de Bspwm,reiniciar,cerrar sesion: super + backspace
+- Salir de Bspwm,reiniciar,cerrar sesion: super + backspace
 
-Ventana flotante: super + f
+- Ventana flotante: super + f
 
 estudie mi configuracion de combinaciones de teclas sxhkdrc para que entienda como funciona cada cosa y donde llaman los scripts directo para el menu (power, wifi, captura de pantalla) etc. Puede modificar mi archivo sxhkdrc y ponerlo a su gusto y comodidad.
 
