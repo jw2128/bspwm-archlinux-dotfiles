@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ### Clonar y copiar el repositorio a través de la terminal.
 ```
-git clone https://github.com/jw2128/bspwm-archlinux
+git clone https://github.com/jw2128/bspwm-archlinux-dotfiles.git
 ```
 _________________________________________________________________________________________________________________________________________________________
 
