@@ -237,7 +237,8 @@ Para que los iconos de pacman se visualizen en la terminal con el neofetch, debe
 yay -S ttf-material-design-icons-extended
 ```
 
-![neofetch](https://user-images.githubusercontent.com/64985138/184955409-06ea27c8-270a-4668-9498-f625dbe92015.jpg)
+![terminal](https://user-images.githubusercontent.com/64985138/185453039-210ed055-624a-4f2b-b2c6-e0098357b1bc.png)
+
 
 
 # FIN
