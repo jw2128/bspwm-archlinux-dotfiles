@@ -9,6 +9,7 @@ Esta es mi configuración personal de Arch Linux + Bspwm + Polybar
 ![desktop4](https://user-images.githubusercontent.com/64985138/184930463-0ffd2238-3e08-4375-8165-03c81bf4aef7.png)
 ![Kenshin](https://user-images.githubusercontent.com/64985138/184930482-f28b3473-15cb-4a1e-ba32-98531ab2f9c9.png)
 ![desktop7](https://user-images.githubusercontent.com/64985138/184930490-49dd6be4-7fea-4d02-9fde-a467b59cf8d1.png)
+![captura-pantalla-220818-1253-58](https://user-images.githubusercontent.com/64985138/185451765-5541817a-167d-4cc1-bee3-f8fa9480166e.png)
 
 
 # Información Importante:
