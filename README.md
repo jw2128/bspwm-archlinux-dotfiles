@@ -100,7 +100,7 @@ mv ~/bspwm-archlinux-dotfiles/polybar ~/.config/
 
 mv ~/bspwm-archlinux-dotfiles/cava/config ~/.config/cava
 
-sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi ~/usr/share/rofi/themes
+sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi /usr/share/rofi/themes
 
 cp -R ~/bspwm-archlinux-dotfiles/bin/* ~/.local/bin/
 
