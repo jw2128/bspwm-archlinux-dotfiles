@@ -65,6 +65,14 @@ mkdir ~/.fonts
 
 mkdir ~/.config/picom
 
+mkdir ~/.config/ranger
+
+mkdir ~/.config/rofi
+
+mkdir ~/.config/mpd
+
+mkdir ~/.config/ncmpcpp
+
 mkdir ~/Pictures/Wallpapers
 
 mkdir ~/.local/bin
@@ -84,13 +92,19 @@ ________________________________________________________________________________
 ### Copiar o mover los archivos de configuración:
 
 ```
-cp -R ~/bspwm-archlinux-dotfiles/Wallpapers/ ~/Pictures/Wallpapers
+cp -R ~/bspwm-archlinux-dotfiles/Wallpapers/* ~/Pictures/Wallpapers
 
 cp -R ~/bspwm-archlinux-dotfiles/bspwm/bspwmrc ~/.config/bspwm 
 
 cp -R ~/bspwm-archlinux-dotfiles/sxhkd/sxhkdrc ~/.config/sxhkd
 
 cp -R ~/bspwm-archlinux-dotfiles/dunst/dunstrc ~/.config/dunst
+
+cp -R ~/bspwm-archlinux-dotfiles/ranger/* ~/.config/ranger
+
+cp -R ~/bspwm-archlinux-dotfiles/mpd/* ~/.config/mpd
+
+cp -R ~/bspwm-archlinux-dotfiles/ncmpcpp/* ~/.config/ncmpcpp
 
 cp -R ~/bspwm-archlinux-dotfiles/kitty/kitty.conf ~/.config/kitty
 
@@ -99,6 +113,8 @@ cp -R ~/bspwm-archlinux-dotfiles/picom/picom.conf ~/.config/picom
 cp -R ~/bspwm-archlinux-dotfiles/polybar ~/.config/
 
 cp -R ~/bspwm-archlinux-dotfiles/cava/config ~/.config/cava
+
+cp -R ~/bspwm-archlinux-dotfiles/rofi/config.rasi ~/.config/rofi
 
 sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi /usr/share/rofi/themes
 
