@@ -51,6 +51,10 @@ ________________________________________________________________________________
 # Crea sus directorios si es necesario:
 ```
 
+mkdir ~/Pictures/Wallpapers
+
+mkdir ~/.config/ncmpcpp
+
 mkdir ~/.config/bspwm
 
 mkdir ~/.config/dunst
@@ -61,8 +65,6 @@ mkdir ~/.config/cava
 
 mkdir ~/.config/sxhkd
 
-mkdir ~/.fonts
-
 mkdir ~/.config/picom
 
 mkdir ~/.config/ranger
@@ -71,11 +73,9 @@ mkdir ~/.config/rofi
 
 mkdir ~/.config/mpd
 
-mkdir ~/.config/ncmpcpp
-
-mkdir ~/Pictures/Wallpapers
-
 mkdir ~/.local/bin
+
+mkdir ~/.fonts
 ```
 _________________________________________________________________________________________________________________________________________________________
 
@@ -116,9 +116,9 @@ cp -R ~/bspwm-archlinux-dotfiles/cava/config ~/.config/cava
 
 cp -R ~/bspwm-archlinux-dotfiles/rofi/config.rasi ~/.config/rofi
 
-sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi /usr/share/rofi/themes
-
 cp -R ~/bspwm-archlinux-dotfiles/bin/* ~/.local/bin/
+
+sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi /usr/share/rofi/themes
 
 chmod +x ~/.config/bspwm/*
 
