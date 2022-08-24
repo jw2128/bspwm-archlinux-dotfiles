@@ -84,27 +84,31 @@ ________________________________________________________________________________
 ### Copiar o mover los archivos de configuración:
 
 ```
-mv ~/bspwm-archlinux-dotfiles/Wallpapers/ ~/Pictures/Wallpapers
+cp -R ~/bspwm-archlinux-dotfiles/Wallpapers/ ~/Pictures/Wallpapers
 
-mv ~/bspwm-archlinux-dotfiles/bspwm/bspwmrc ~/.config/bspwm 
+cp -R ~/bspwm-archlinux-dotfiles/bspwm/bspwmrc ~/.config/bspwm 
 
-mv ~/bspwm-archlinux-dotfiles/sxhkd/sxhkdrc ~/.config/sxhkd
+cp -R ~/bspwm-archlinux-dotfiles/sxhkd/sxhkdrc ~/.config/sxhkd
 
-mv ~/bspwm-archlinux-dotfiles/dunst/dunstrc ~/.config/dunst
+cp -R ~/bspwm-archlinux-dotfiles/dunst/dunstrc ~/.config/dunst
 
-mv ~/bspwm-archlinux-dotfiles/kitty/kitty.conf ~/.config/kitty
+cp -R ~/bspwm-archlinux-dotfiles/kitty/kitty.conf ~/.config/kitty
 
-mv ~/bspwm-archlinux-dotfiles/picom/picom.conf ~/.config/picom
+cp -R ~/bspwm-archlinux-dotfiles/picom/picom.conf ~/.config/picom
 
-mv ~/bspwm-archlinux-dotfiles/polybar ~/.config/
+cp -R ~/bspwm-archlinux-dotfiles/polybar ~/.config/
 
-mv ~/bspwm-archlinux-dotfiles/cava/config ~/.config/cava
+cp -R ~/bspwm-archlinux-dotfiles/cava/config ~/.config/cava
 
 sudo cp ~/bspwm-archlinux-dotfiles/rofi/config.rasi /usr/share/rofi/themes
 
 cp -R ~/bspwm-archlinux-dotfiles/bin/* ~/.local/bin/
 
 chmod +x ~/.config/bspwm/*
+
+chmod +x ~/.config/polybar/launch.sh
+
+chmod +x ~/.config/polybar/script/*
 
 chmod +x ~/.local/bin/*
 ```
