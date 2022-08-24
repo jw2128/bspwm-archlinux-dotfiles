@@ -106,7 +106,7 @@ cp -R ~/bspwm-archlinux-dotfiles/mpd/* ~/.config/mpd
 
 cp -R ~/bspwm-archlinux-dotfiles/ncmpcpp/* ~/.config/ncmpcpp
 
-cp -R ~/bspwm-archlinux-dotfiles/kitty/kitty.conf ~/.config/kitty
+cp -R ~/bspwm-archlinux-dotfiles/kitty/* ~/.config/kitty
 
 cp -R ~/bspwm-archlinux-dotfiles/picom/picom.conf ~/.config/picom
 
