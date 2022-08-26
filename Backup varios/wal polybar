@@ -1,0 +1,4 @@
+Polybar de inicio automático con colores Pywal:
+
+touch ~/.Xresources
+cp ~/.cache/wal/colors.Xresources ~/.Xresources
