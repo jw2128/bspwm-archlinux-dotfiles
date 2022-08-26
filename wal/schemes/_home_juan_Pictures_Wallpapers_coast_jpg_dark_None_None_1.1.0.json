@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/coast.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05120E",
+        "foreground": "#bec4c4",
+        "cursor": "#bec4c4"
+    },
+    "colors": {
+        "color0": "#05120E",
+        "color1": "#596567",
+        "color2": "#687476",
+        "color3": "#778773",
+        "color4": "#737E81",
+        "color5": "#3B8A8F",
+        "color6": "#798587",
+        "color7": "#bec4c4",
+        "color8": "#858989",
+        "color9": "#596567",
+        "color10": "#687476",
+        "color11": "#778773",
+        "color12": "#737E81",
+        "color13": "#3B8A8F",
+        "color14": "#798587",
+        "color15": "#bec4c4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/mountain.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#02030F",
+        "foreground": "#d7b5ca",
+        "cursor": "#d7b5ca"
+    },
+    "colors": {
+        "color0": "#02030F",
+        "color1": "#534C6C",
+        "color2": "#ED9465",
+        "color3": "#245498",
+        "color4": "#5F6192",
+        "color5": "#8D748A",
+        "color6": "#97709F",
+        "color7": "#d7b5ca",
+        "color8": "#967e8d",
+        "color9": "#534C6C",
+        "color10": "#ED9465",
+        "color11": "#245498",
+        "color12": "#5F6192",
+        "color13": "#8D748A",
+        "color14": "#97709F",
+        "color15": "#d7b5ca"
+    }
+}

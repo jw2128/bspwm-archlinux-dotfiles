@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/garena.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090909",
+        "foreground": "#d4d4d9",
+        "cursor": "#d4d4d9"
+    },
+    "colors": {
+        "color0": "#090909",
+        "color1": "#6B6B6F",
+        "color2": "#816872",
+        "color3": "#236F8A",
+        "color4": "#767985",
+        "color5": "#92929B",
+        "color6": "#ACACB4",
+        "color7": "#d4d4d9",
+        "color8": "#949497",
+        "color9": "#6B6B6F",
+        "color10": "#816872",
+        "color11": "#236F8A",
+        "color12": "#767985",
+        "color13": "#92929B",
+        "color14": "#ACACB4",
+        "color15": "#d4d4d9"
+    }
+}

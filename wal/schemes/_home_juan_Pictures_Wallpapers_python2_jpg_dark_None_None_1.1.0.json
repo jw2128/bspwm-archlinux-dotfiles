@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/python2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090909",
+        "foreground": "#bbebde",
+        "cursor": "#bbebde"
+    },
+    "colors": {
+        "color0": "#090909",
+        "color1": "#FA7893",
+        "color2": "#7F9D8B",
+        "color3": "#FB8887",
+        "color4": "#85F5B9",
+        "color5": "#81BDDA",
+        "color6": "#8BDEDD",
+        "color7": "#bbebde",
+        "color8": "#82a49b",
+        "color9": "#FA7893",
+        "color10": "#7F9D8B",
+        "color11": "#FB8887",
+        "color12": "#85F5B9",
+        "color13": "#81BDDA",
+        "color14": "#8BDEDD",
+        "color15": "#bbebde"
+    }
+}

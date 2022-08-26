@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/deer.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101b1f",
+        "foreground": "#dee4e6",
+        "cursor": "#dee4e6"
+    },
+    "colors": {
+        "color0": "#101b1f",
+        "color1": "#637B86",
+        "color2": "#668795",
+        "color3": "#7DAEC5",
+        "color4": "#88B6CB",
+        "color5": "#96B6C4",
+        "color6": "#B1BDC2",
+        "color7": "#dee4e6",
+        "color8": "#9b9fa1",
+        "color9": "#637B86",
+        "color10": "#668795",
+        "color11": "#7DAEC5",
+        "color12": "#88B6CB",
+        "color13": "#96B6C4",
+        "color14": "#B1BDC2",
+        "color15": "#dee4e6"
+    }
+}

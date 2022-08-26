@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/sunset.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1012",
+        "foreground": "#c5c3c1",
+        "cursor": "#c5c3c1"
+    },
+    "colors": {
+        "color0": "#0e1012",
+        "color1": "#5C656D",
+        "color2": "#A36F5C",
+        "color3": "#7B807F",
+        "color4": "#CC9161",
+        "color5": "#5F7886",
+        "color6": "#728A94",
+        "color7": "#c5c3c1",
+        "color8": "#898887",
+        "color9": "#5C656D",
+        "color10": "#A36F5C",
+        "color11": "#7B807F",
+        "color12": "#CC9161",
+        "color13": "#5F7886",
+        "color14": "#728A94",
+        "color15": "#c5c3c1"
+    }
+}

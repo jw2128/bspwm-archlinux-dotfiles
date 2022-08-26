@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/msi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09090a",
+        "foreground": "#c0c0c4",
+        "cursor": "#c0c0c4"
+    },
+    "colors": {
+        "color0": "#09090a",
+        "color1": "#5F5D61",
+        "color2": "#53529D",
+        "color3": "#E50BFA",
+        "color4": "#9F41DE",
+        "color5": "#4BA9E8",
+        "color6": "#1CF3F9",
+        "color7": "#c0c0c4",
+        "color8": "#868689",
+        "color9": "#5F5D61",
+        "color10": "#53529D",
+        "color11": "#E50BFA",
+        "color12": "#9F41DE",
+        "color13": "#4BA9E8",
+        "color14": "#1CF3F9",
+        "color15": "#c0c0c4"
+    }
+}

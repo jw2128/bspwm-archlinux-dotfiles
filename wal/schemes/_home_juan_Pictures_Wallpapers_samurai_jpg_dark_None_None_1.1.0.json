@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/samurai.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1315",
+        "foreground": "#c8bea6",
+        "cursor": "#c8bea6"
+    },
+    "colors": {
+        "color0": "#0D1315",
+        "color1": "#6B5C38",
+        "color2": "#293E41",
+        "color3": "#334746",
+        "color4": "#4A564F",
+        "color5": "#576867",
+        "color6": "#636A60",
+        "color7": "#c8bea6",
+        "color8": "#8c8574",
+        "color9": "#6B5C38",
+        "color10": "#293E41",
+        "color11": "#334746",
+        "color12": "#4A564F",
+        "color13": "#576867",
+        "color14": "#636A60",
+        "color15": "#c8bea6"
+    }
+}

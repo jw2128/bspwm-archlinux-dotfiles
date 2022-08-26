@@ -1,0 +1,21 @@
+set $wallpaper /home/juan/Pictures/Wallpapers/smoke4k1.jpg
+
+set $background #0c0c0a
+set $foreground #b2bab7
+
+set $color0 #0c0c0a
+set $color1 #5E675A
+set $color2 #9E1210
+set $color3 #F11706
+set $color4 #FE6004
+set $color5 #FE9E06
+set $color6 #DAC22C
+set $color7 #b2bab7
+set $color8 #7c8280
+set $color9 #5E675A
+set $color10 #9E1210
+set $color11 #F11706
+set $color12 #FE6004
+set $color13 #FE9E06
+set $color14 #DAC22C
+set $color15 #b2bab7

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/playstation.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#80daea",
+        "cursor": "#80daea"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#C6224E",
+        "color2": "#12B83A",
+        "color3": "#08EC1B",
+        "color4": "#9BF85D",
+        "color5": "#0A6B9C",
+        "color6": "#FA45A7",
+        "color7": "#80daea",
+        "color8": "#5998a3",
+        "color9": "#C6224E",
+        "color10": "#12B83A",
+        "color11": "#08EC1B",
+        "color12": "#9BF85D",
+        "color13": "#0A6B9C",
+        "color14": "#FA45A7",
+        "color15": "#80daea"
+    }
+}
