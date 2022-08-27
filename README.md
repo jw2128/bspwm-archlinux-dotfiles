@@ -126,6 +126,8 @@ chmod +x ~/.config/polybar/launch.sh
 
 chmod +x ~/.config/polybar/script/*
 
+chmod +x ~/.config/ranger/scope.sh
+
 chmod +x ~/.local/bin/*
 ```
 _________________________________________________________________________________________________________________________________________________________
