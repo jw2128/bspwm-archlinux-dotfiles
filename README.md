@@ -7,9 +7,11 @@ Esta es mi configuración personal de Arch Linux + Bspwm + Polybar
 
 ![desktopJC](https://user-images.githubusercontent.com/64985138/184930438-87d16a57-daf7-4535-8b6c-3bbcacb7aee5.png)
 ![desktop4](https://user-images.githubusercontent.com/64985138/184930463-0ffd2238-3e08-4375-8165-03c81bf4aef7.png)
-![Kenshin](https://user-images.githubusercontent.com/64985138/184930482-f28b3473-15cb-4a1e-ba32-98531ab2f9c9.png)
-![desktop7](https://user-images.githubusercontent.com/64985138/184930490-49dd6be4-7fea-4d02-9fde-a467b59cf8d1.png)
-![captura-pantalla-220818-1253-58](https://user-images.githubusercontent.com/64985138/185451765-5541817a-167d-4cc1-bee3-f8fa9480166e.png)
+![captura-pantalla-220909-1339-49](https://user-images.githubusercontent.com/64985138/189413892-10194952-e3e2-41cf-a8b2-44e6702712cb.png)
+![desktop1](https://user-images.githubusercontent.com/64985138/189413947-4b842405-0e00-410f-853e-42af22098643.png)
+![captura-pantalla-220909-1342-52](https://user-images.githubusercontent.com/64985138/189413995-e36b8f00-b476-457f-bf92-51f9ad3de8be.png)
+![captura-pantalla-220909-1340-19](https://user-images.githubusercontent.com/64985138/189414010-2c5be227-4f57-4d0b-b463-88e1f7e3300a.png)
+
 
 
 # Información Importante:
