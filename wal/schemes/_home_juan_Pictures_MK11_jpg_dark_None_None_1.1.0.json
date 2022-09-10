@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/MK11.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0603",
+        "foreground": "#d7c8a8",
+        "cursor": "#d7c8a8"
+    },
+    "colors": {
+        "color0": "#0c0603",
+        "color1": "#9E260C",
+        "color2": "#AF4D1D",
+        "color3": "#D96217",
+        "color4": "#917352",
+        "color5": "#5A976A",
+        "color6": "#EE972D",
+        "color7": "#d7c8a8",
+        "color8": "#968c75",
+        "color9": "#9E260C",
+        "color10": "#AF4D1D",
+        "color11": "#D96217",
+        "color12": "#917352",
+        "color13": "#5A976A",
+        "color14": "#EE972D",
+        "color15": "#d7c8a8"
+    }
+}

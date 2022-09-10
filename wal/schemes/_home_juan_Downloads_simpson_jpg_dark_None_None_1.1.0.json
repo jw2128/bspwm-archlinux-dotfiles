@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Downloads/simpson.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#11100d",
+        "foreground": "#cadeec",
+        "cursor": "#cadeec"
+    },
+    "colors": {
+        "color0": "#11100d",
+        "color1": "#7B8670",
+        "color2": "#FED421",
+        "color3": "#AFA558",
+        "color4": "#3173A9",
+        "color5": "#67A7C9",
+        "color6": "#909DA1",
+        "color7": "#cadeec",
+        "color8": "#8d9ba5",
+        "color9": "#7B8670",
+        "color10": "#FED421",
+        "color11": "#AFA558",
+        "color12": "#3173A9",
+        "color13": "#67A7C9",
+        "color14": "#909DA1",
+        "color15": "#cadeec"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/juan/Pictures/Wallpapers/simpson.jpg
+
+set $background #11100d
+set $foreground #cadeec
+
+set $color0 #11100d
+set $color1 #7B8670
+set $color2 #FED421
+set $color3 #AFA558
+set $color4 #3173A9
+set $color5 #67A7C9
+set $color6 #909DA1
+set $color7 #cadeec
+set $color8 #8d9ba5
+set $color9 #7B8670
+set $color10 #FED421
+set $color11 #AFA558
+set $color12 #3173A9
+set $color13 #67A7C9
+set $color14 #909DA1
+set $color15 #cadeec

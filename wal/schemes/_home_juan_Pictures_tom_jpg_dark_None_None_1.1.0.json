@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/tom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141413",
+        "foreground": "#d1d9d9",
+        "cursor": "#d1d9d9"
+    },
+    "colors": {
+        "color0": "#141413",
+        "color1": "#C9B278",
+        "color2": "#6D7C82",
+        "color3": "#788B89",
+        "color4": "#9EA699",
+        "color5": "#C8BA91",
+        "color6": "#DACD9D",
+        "color7": "#d1d9d9",
+        "color8": "#929797",
+        "color9": "#C9B278",
+        "color10": "#6D7C82",
+        "color11": "#788B89",
+        "color12": "#9EA699",
+        "color13": "#C8BA91",
+        "color14": "#DACD9D",
+        "color15": "#d1d9d9"
+    }
+}

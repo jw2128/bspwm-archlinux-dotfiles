@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/norway_fjord.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#06110D",
+        "foreground": "#d1dae4",
+        "cursor": "#d1dae4"
+    },
+    "colors": {
+        "color0": "#06110D",
+        "color1": "#56778A",
+        "color2": "#688DA1",
+        "color3": "#76A5C5",
+        "color4": "#92A0AD",
+        "color5": "#C0CBB0",
+        "color6": "#9FB4CB",
+        "color7": "#d1dae4",
+        "color8": "#92989f",
+        "color9": "#56778A",
+        "color10": "#688DA1",
+        "color11": "#76A5C5",
+        "color12": "#92A0AD",
+        "color13": "#C0CBB0",
+        "color14": "#9FB4CB",
+        "color15": "#d1dae4"
+    }
+}

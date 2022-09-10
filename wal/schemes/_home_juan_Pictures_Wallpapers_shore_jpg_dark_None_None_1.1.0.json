@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/shore.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#103845",
+        "foreground": "#e1e0dc",
+        "cursor": "#e1e0dc"
+    },
+    "colors": {
+        "color0": "#103845",
+        "color1": "#94ACAE",
+        "color2": "#AABCBD",
+        "color3": "#B0B9B1",
+        "color4": "#BBC2B9",
+        "color5": "#CAC8B9",
+        "color6": "#B6C5C7",
+        "color7": "#e1e0dc",
+        "color8": "#9d9c9a",
+        "color9": "#94ACAE",
+        "color10": "#AABCBD",
+        "color11": "#B0B9B1",
+        "color12": "#BBC2B9",
+        "color13": "#CAC8B9",
+        "color14": "#B6C5C7",
+        "color15": "#e1e0dc"
+    }
+}

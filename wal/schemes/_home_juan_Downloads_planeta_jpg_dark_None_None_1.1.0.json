@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Downloads/planeta.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1b0a",
+        "foreground": "#dae2e6",
+        "cursor": "#dae2e6"
+    },
+    "colors": {
+        "color0": "#1f1b0a",
+        "color1": "#9EA3B6",
+        "color2": "#CFCF9C",
+        "color3": "#90A8C9",
+        "color4": "#AEB8C9",
+        "color5": "#B5C8D5",
+        "color6": "#B9D8E5",
+        "color7": "#dae2e6",
+        "color8": "#989ea1",
+        "color9": "#9EA3B6",
+        "color10": "#CFCF9C",
+        "color11": "#90A8C9",
+        "color12": "#AEB8C9",
+        "color13": "#B5C8D5",
+        "color14": "#B9D8E5",
+        "color15": "#dae2e6"
+    }
+}

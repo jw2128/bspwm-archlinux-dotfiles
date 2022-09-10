@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/Moon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0a0c",
+        "foreground": "#94bdca",
+        "cursor": "#94bdca"
+    },
+    "colors": {
+        "color0": "#0f0a0c",
+        "color1": "#284A6A",
+        "color2": "#61496F",
+        "color3": "#983E61",
+        "color4": "#1E668B",
+        "color5": "#60608B",
+        "color6": "#A66B91",
+        "color7": "#94bdca",
+        "color8": "#67848d",
+        "color9": "#284A6A",
+        "color10": "#61496F",
+        "color11": "#983E61",
+        "color12": "#1E668B",
+        "color13": "#60608B",
+        "color14": "#A66B91",
+        "color15": "#94bdca"
+    }
+}

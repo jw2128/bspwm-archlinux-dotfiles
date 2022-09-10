@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/MK112.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0E15",
+        "foreground": "#c4c8c6",
+        "cursor": "#c4c8c6"
+    },
+    "colors": {
+        "color0": "#0C0E15",
+        "color1": "#595C5D",
+        "color2": "#8F7536",
+        "color3": "#79817C",
+        "color4": "#A5904F",
+        "color5": "#38718D",
+        "color6": "#5898AC",
+        "color7": "#c4c8c6",
+        "color8": "#898c8a",
+        "color9": "#595C5D",
+        "color10": "#8F7536",
+        "color11": "#79817C",
+        "color12": "#A5904F",
+        "color13": "#38718D",
+        "color14": "#5898AC",
+        "color15": "#c4c8c6"
+    }
+}

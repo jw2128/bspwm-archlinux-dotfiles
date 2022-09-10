@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/onepiece.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15100b",
+        "foreground": "#e4ddcf",
+        "cursor": "#e4ddcf"
+    },
+    "colors": {
+        "color0": "#15100b",
+        "color1": "#7B8625",
+        "color2": "#9DA026",
+        "color3": "#AD8F5C",
+        "color4": "#D0B852",
+        "color5": "#CAB9A7",
+        "color6": "#D3C897",
+        "color7": "#e4ddcf",
+        "color8": "#9f9a90",
+        "color9": "#7B8625",
+        "color10": "#9DA026",
+        "color11": "#AD8F5C",
+        "color12": "#D0B852",
+        "color13": "#CAB9A7",
+        "color14": "#D3C897",
+        "color15": "#e4ddcf"
+    }
+}

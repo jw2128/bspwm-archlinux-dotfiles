@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/the-witche.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A1212",
+        "foreground": "#d9dcda",
+        "cursor": "#d9dcda"
+    },
+    "colors": {
+        "color0": "#0A1212",
+        "color1": "#77878E",
+        "color2": "#889598",
+        "color3": "#98A4A5",
+        "color4": "#ACB5B5",
+        "color5": "#BCC1BE",
+        "color6": "#BDC2C1",
+        "color7": "#d9dcda",
+        "color8": "#979a98",
+        "color9": "#77878E",
+        "color10": "#889598",
+        "color11": "#98A4A5",
+        "color12": "#ACB5B5",
+        "color13": "#BCC1BE",
+        "color14": "#BDC2C1",
+        "color15": "#d9dcda"
+    }
+}

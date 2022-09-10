@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/RISE.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#13100d",
+        "foreground": "#e9e7e3",
+        "cursor": "#e9e7e3"
+    },
+    "colors": {
+        "color0": "#13100d",
+        "color1": "#90948C",
+        "color2": "#A4A59A",
+        "color3": "#B1B4AB",
+        "color4": "#C1BDB3",
+        "color5": "#CEC7B7",
+        "color6": "#D6D4CD",
+        "color7": "#e9e7e3",
+        "color8": "#a3a19e",
+        "color9": "#90948C",
+        "color10": "#A4A59A",
+        "color11": "#B1B4AB",
+        "color12": "#C1BDB3",
+        "color13": "#CEC7B7",
+        "color14": "#D6D4CD",
+        "color15": "#e9e7e3"
+    }
+}

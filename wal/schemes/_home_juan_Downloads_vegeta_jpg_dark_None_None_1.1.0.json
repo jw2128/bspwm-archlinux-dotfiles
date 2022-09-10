@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Downloads/vegeta.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030506",
+        "foreground": "#e5ecea",
+        "cursor": "#e5ecea"
+    },
+    "colors": {
+        "color0": "#030506",
+        "color1": "#AC805E",
+        "color2": "#1F7191",
+        "color3": "#4BA7C8",
+        "color4": "#54B0D3",
+        "color5": "#CEBAA2",
+        "color6": "#9FE1F3",
+        "color7": "#e5ecea",
+        "color8": "#a0a5a3",
+        "color9": "#AC805E",
+        "color10": "#1F7191",
+        "color11": "#4BA7C8",
+        "color12": "#54B0D3",
+        "color13": "#CEBAA2",
+        "color14": "#9FE1F3",
+        "color15": "#e5ecea"
+    }
+}

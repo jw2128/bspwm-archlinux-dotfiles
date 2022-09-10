@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/Tomb.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0F0F",
+        "foreground": "#dfdfdd",
+        "cursor": "#dfdfdd"
+    },
+    "colors": {
+        "color0": "#0F0F0F",
+        "color1": "#817E7B",
+        "color2": "#84827D",
+        "color3": "#91918F",
+        "color4": "#A1A19D",
+        "color5": "#B0B1AE",
+        "color6": "#C1C1BD",
+        "color7": "#dfdfdd",
+        "color8": "#9c9c9a",
+        "color9": "#817E7B",
+        "color10": "#84827D",
+        "color11": "#91918F",
+        "color12": "#A1A19D",
+        "color13": "#B0B1AE",
+        "color14": "#C1C1BD",
+        "color15": "#dfdfdd"
+    }
+}

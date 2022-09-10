@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Call_of_Du.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040403",
+        "foreground": "#e1e5df",
+        "cursor": "#e1e5df"
+    },
+    "colors": {
+        "color0": "#040403",
+        "color1": "#807F7E",
+        "color2": "#58A317",
+        "color3": "#51A21D",
+        "color4": "#97D254",
+        "color5": "#9C9D9C",
+        "color6": "#BDE99F",
+        "color7": "#e1e5df",
+        "color8": "#9da09c",
+        "color9": "#807F7E",
+        "color10": "#58A317",
+        "color11": "#51A21D",
+        "color12": "#97D254",
+        "color13": "#9C9D9C",
+        "color14": "#BDE99F",
+        "color15": "#e1e5df"
+    }
+}

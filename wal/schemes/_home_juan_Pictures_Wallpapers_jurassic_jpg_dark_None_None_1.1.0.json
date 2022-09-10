@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/jurassic.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040303",
+        "foreground": "#f0df89",
+        "cursor": "#f0df89"
+    },
+    "colors": {
+        "color0": "#040303",
+        "color1": "#D0710F",
+        "color2": "#B28C1B",
+        "color3": "#E0930D",
+        "color4": "#EDAE0B",
+        "color5": "#F4CE09",
+        "color6": "#F9E806",
+        "color7": "#f0df89",
+        "color8": "#a89c5f",
+        "color9": "#D0710F",
+        "color10": "#B28C1B",
+        "color11": "#E0930D",
+        "color12": "#EDAE0B",
+        "color13": "#F4CE09",
+        "color14": "#F9E806",
+        "color15": "#f0df89"
+    }
+}

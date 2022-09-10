@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/d5xwem.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090909",
+        "foreground": "#82bedc",
+        "cursor": "#82bedc"
+    },
+    "colors": {
+        "color0": "#090909",
+        "color1": "#105171",
+        "color2": "#494949",
+        "color3": "#115D84",
+        "color4": "#126791",
+        "color5": "#1378AB",
+        "color6": "#1583BB",
+        "color7": "#82bedc",
+        "color8": "#5b859a",
+        "color9": "#105171",
+        "color10": "#494949",
+        "color11": "#115D84",
+        "color12": "#126791",
+        "color13": "#1378AB",
+        "color14": "#1583BB",
+        "color15": "#82bedc"
+    }
+}

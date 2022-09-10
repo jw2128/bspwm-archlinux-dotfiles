@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Downloads/devil.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0909",
+        "foreground": "#cac5c3",
+        "cursor": "#cac5c3"
+    },
+    "colors": {
+        "color0": "#0b0909",
+        "color1": "#9C2B26",
+        "color2": "#C33E2C",
+        "color3": "#D85E26",
+        "color4": "#975F5D",
+        "color5": "#D4A931",
+        "color6": "#887D83",
+        "color7": "#cac5c3",
+        "color8": "#8d8988",
+        "color9": "#9C2B26",
+        "color10": "#C33E2C",
+        "color11": "#D85E26",
+        "color12": "#975F5D",
+        "color13": "#D4A931",
+        "color14": "#887D83",
+        "color15": "#cac5c3"
+    }
+}

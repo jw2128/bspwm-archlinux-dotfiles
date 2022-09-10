@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/arch 300.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000100",
+        "foreground": "#c0ccc5",
+        "cursor": "#c0ccc5"
+    },
+    "colors": {
+        "color0": "#000100",
+        "color1": "#67766D",
+        "color2": "#74857B",
+        "color3": "#15709D",
+        "color4": "#7C8F84",
+        "color5": "#2395CF",
+        "color6": "#86998E",
+        "color7": "#c0ccc5",
+        "color8": "#868e89",
+        "color9": "#67766D",
+        "color10": "#74857B",
+        "color11": "#15709D",
+        "color12": "#7C8F84",
+        "color13": "#2395CF",
+        "color14": "#86998E",
+        "color15": "#c0ccc5"
+    }
+}

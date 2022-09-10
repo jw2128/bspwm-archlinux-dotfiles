@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/nood.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0A0F",
+        "foreground": "#b9b5cc",
+        "cursor": "#b9b5cc"
+    },
+    "colors": {
+        "color0": "#0B0A0F",
+        "color1": "#3A316B",
+        "color2": "#413E52",
+        "color3": "#433A73",
+        "color4": "#4F4B64",
+        "color5": "#483C82",
+        "color6": "#5F568F",
+        "color7": "#b9b5cc",
+        "color8": "#817e8e",
+        "color9": "#3A316B",
+        "color10": "#413E52",
+        "color11": "#433A73",
+        "color12": "#4F4B64",
+        "color13": "#483C82",
+        "color14": "#5F568F",
+        "color15": "#b9b5cc"
+    }
+}

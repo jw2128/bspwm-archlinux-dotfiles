@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/ragnar5.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10100f",
+        "foreground": "#dee2e0",
+        "cursor": "#dee2e0"
+    },
+    "colors": {
+        "color0": "#10100f",
+        "color1": "#7A868A",
+        "color2": "#90948D",
+        "color3": "#A3A59B",
+        "color4": "#B1B5AC",
+        "color5": "#C9C8B7",
+        "color6": "#BBC4C2",
+        "color7": "#dee2e0",
+        "color8": "#9b9e9c",
+        "color9": "#7A868A",
+        "color10": "#90948D",
+        "color11": "#A3A59B",
+        "color12": "#B1B5AC",
+        "color13": "#C9C8B7",
+        "color14": "#BBC4C2",
+        "color15": "#dee2e0"
+    }
+}

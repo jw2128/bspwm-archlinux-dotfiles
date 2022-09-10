@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/juan/Pictures/Wallpapers/simpson.jpg"
+let background = "#11100d"
+let foreground = "#cadeec"
+let cursor     = "#cadeec"
+
+" Colors
+let color0  = "#11100d"
+let color1  = "#7B8670"
+let color2  = "#FED421"
+let color3  = "#AFA558"
+let color4  = "#3173A9"
+let color5  = "#67A7C9"
+let color6  = "#909DA1"
+let color7  = "#cadeec"
+let color8  = "#8d9ba5"
+let color9  = "#7B8670"
+let color10 = "#FED421"
+let color11 = "#AFA558"
+let color12 = "#3173A9"
+let color13 = "#67A7C9"
+let color14 = "#909DA1"
+let color15 = "#cadeec"

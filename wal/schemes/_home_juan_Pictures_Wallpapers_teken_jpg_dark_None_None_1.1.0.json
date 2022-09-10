@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/teken.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040716",
+        "foreground": "#99c7e5",
+        "cursor": "#99c7e5"
+    },
+    "colors": {
+        "color0": "#040716",
+        "color1": "#604B65",
+        "color2": "#AD2F61",
+        "color3": "#F28E70",
+        "color4": "#135B9E",
+        "color5": "#575DA3",
+        "color6": "#B85DA1",
+        "color7": "#99c7e5",
+        "color8": "#6b8ba0",
+        "color9": "#604B65",
+        "color10": "#AD2F61",
+        "color11": "#F28E70",
+        "color12": "#135B9E",
+        "color13": "#575DA3",
+        "color14": "#B85DA1",
+        "color15": "#99c7e5"
+    }
+}

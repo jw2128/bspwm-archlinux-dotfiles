@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/car.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090D16",
+        "foreground": "#dad6d2",
+        "cursor": "#dad6d2"
+    },
+    "colors": {
+        "color0": "#090D16",
+        "color1": "#4A4F53",
+        "color2": "#656A6B",
+        "color3": "#877465",
+        "color4": "#CAAD58",
+        "color5": "#7B8489",
+        "color6": "#989B9C",
+        "color7": "#dad6d2",
+        "color8": "#989593",
+        "color9": "#4A4F53",
+        "color10": "#656A6B",
+        "color11": "#877465",
+        "color12": "#CAAD58",
+        "color13": "#7B8489",
+        "color14": "#989B9C",
+        "color15": "#dad6d2"
+    }
+}

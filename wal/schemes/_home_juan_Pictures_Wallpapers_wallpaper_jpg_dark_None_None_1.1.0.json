@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161617",
+        "foreground": "#bcc8cd",
+        "cursor": "#bcc8cd"
+    },
+    "colors": {
+        "color0": "#161617",
+        "color1": "#3C8590",
+        "color2": "#518699",
+        "color3": "#718892",
+        "color4": "#5A8DA3",
+        "color5": "#6B96AA",
+        "color6": "#78A4B3",
+        "color7": "#bcc8cd",
+        "color8": "#838c8f",
+        "color9": "#3C8590",
+        "color10": "#518699",
+        "color11": "#718892",
+        "color12": "#5A8DA3",
+        "color13": "#6B96AA",
+        "color14": "#78A4B3",
+        "color15": "#bcc8cd"
+    }
+}

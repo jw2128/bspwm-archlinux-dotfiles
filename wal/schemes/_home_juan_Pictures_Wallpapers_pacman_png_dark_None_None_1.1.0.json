@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/pacman.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181818",
+        "foreground": "#d0cabe",
+        "cursor": "#d0cabe"
+    },
+    "colors": {
+        "color0": "#181818",
+        "color1": "#D49721",
+        "color2": "#9D8E76",
+        "color3": "#447E80",
+        "color4": "#AB5F82",
+        "color5": "#B26587",
+        "color6": "#478688",
+        "color7": "#d0cabe",
+        "color8": "#918d85",
+        "color9": "#D49721",
+        "color10": "#9D8E76",
+        "color11": "#447E80",
+        "color12": "#AB5F82",
+        "color13": "#B26587",
+        "color14": "#478688",
+        "color15": "#d0cabe"
+    }
+}

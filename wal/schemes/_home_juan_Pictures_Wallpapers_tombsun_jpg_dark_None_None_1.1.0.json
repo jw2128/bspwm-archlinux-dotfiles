@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/tombsun.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D1211",
+        "foreground": "#b4bcba",
+        "cursor": "#b4bcba"
+    },
+    "colors": {
+        "color0": "#0D1211",
+        "color1": "#933922",
+        "color2": "#AB4824",
+        "color3": "#DA6320",
+        "color4": "#AD6E47",
+        "color5": "#F49829",
+        "color6": "#F5CB4B",
+        "color7": "#b4bcba",
+        "color8": "#7d8382",
+        "color9": "#933922",
+        "color10": "#AB4824",
+        "color11": "#DA6320",
+        "color12": "#AD6E47",
+        "color13": "#F49829",
+        "color14": "#F5CB4B",
+        "color15": "#b4bcba"
+    }
+}

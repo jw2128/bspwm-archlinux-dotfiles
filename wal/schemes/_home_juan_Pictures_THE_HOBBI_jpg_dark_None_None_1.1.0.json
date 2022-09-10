@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/THE_HOBBI.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081005",
+        "foreground": "#e0dcce",
+        "cursor": "#e0dcce"
+    },
+    "colors": {
+        "color0": "#081005",
+        "color1": "#887653",
+        "color2": "#708A3C",
+        "color3": "#75895C",
+        "color4": "#939E42",
+        "color5": "#8D966B",
+        "color6": "#AAAB8C",
+        "color7": "#e0dcce",
+        "color8": "#9c9a90",
+        "color9": "#887653",
+        "color10": "#708A3C",
+        "color11": "#75895C",
+        "color12": "#939E42",
+        "color13": "#8D966B",
+        "color14": "#AAAB8C",
+        "color15": "#e0dcce"
+    }
+}

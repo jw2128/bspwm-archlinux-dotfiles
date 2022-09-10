@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/Debian2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#10100f",
+        "foreground": "#e3a0ad",
+        "cursor": "#e3a0ad"
+    },
+    "colors": {
+        "color0": "#10100f",
+        "color1": "#951029",
+        "color2": "#AC0F2D",
+        "color3": "#D70B2B",
+        "color4": "#AB3149",
+        "color5": "#DD284D",
+        "color6": "#B45164",
+        "color7": "#e3a0ad",
+        "color8": "#9e7079",
+        "color9": "#951029",
+        "color10": "#AC0F2D",
+        "color11": "#D70B2B",
+        "color12": "#AB3149",
+        "color13": "#DD284D",
+        "color14": "#B45164",
+        "color15": "#e3a0ad"
+    }
+}

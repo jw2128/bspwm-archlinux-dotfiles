@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/kenshin.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0507",
+        "foreground": "#d6d5d8",
+        "cursor": "#d6d5d8"
+    },
+    "colors": {
+        "color0": "#0D0507",
+        "color1": "#48354A",
+        "color2": "#4B4A52",
+        "color3": "#5C5B6D",
+        "color4": "#A0764D",
+        "color5": "#787784",
+        "color6": "#9E9DA5",
+        "color7": "#d6d5d8",
+        "color8": "#959597",
+        "color9": "#48354A",
+        "color10": "#4B4A52",
+        "color11": "#5C5B6D",
+        "color12": "#A0764D",
+        "color13": "#787784",
+        "color14": "#9E9DA5",
+        "color15": "#d6d5d8"
+    }
+}

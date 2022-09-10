@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/juan/Pictures/Wallpapers/subzero.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090E11",
+        "foreground": "#c0cacd",
+        "cursor": "#c0cacd"
+    },
+    "colors": {
+        "color0": "#090E11",
+        "color1": "#4E626D",
+        "color2": "#8A7E76",
+        "color3": "#3A6C85",
+        "color4": "#587689",
+        "color5": "#6E8E9C",
+        "color6": "#66BACA",
+        "color7": "#c0cacd",
+        "color8": "#868d8f",
+        "color9": "#4E626D",
+        "color10": "#8A7E76",
+        "color11": "#3A6C85",
+        "color12": "#587689",
+        "color13": "#6E8E9C",
+        "color14": "#66BACA",
+        "color15": "#c0cacd"
+    }
+}
