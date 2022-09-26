@@ -169,7 +169,7 @@ font-2 = "Iosevka Nerd Font:size=18;4"
 font-3 = "Iosevka Nerd Font:size=20;4"
 font-4 = "Source Code Pro Bold:size=15;3"
 
-modules-center = CLD count-updates CRD spacing YLD kernel YRD spacing FSL cpu FSR spacing RLD memory RRD spacing GLD temperature GRD spacing WLD time WRD
+modules-center = CLD count-updates CRD spacing YLD kernel YRD spacing FSL cpu FSR spacing RLD memory RRD spacing GLD temp GRD spacing WLD time WRD
 
 spacing = 0
 dim-value = 1.0
