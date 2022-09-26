@@ -65,6 +65,19 @@ label-indicator-padding = 2
 label-indicator-margin = 1
 label-indicator-background = ${colors.secondary}
 
+[module/temp]
+type = custom/script
+exec = ~/.config/polybar/script/temp.sh
+interval = 1
+
+format = <ramp> <label>
+format-prefix = " "
+format-warn = <ramp> <label-warn>
+
+format-prefix-foreground = ${color.background}
+format-foreground = ${color.background}
+format-background = ${color.green}
+
 [module/temperature]
 type = internal/temperature
 thermal-zone = 0
