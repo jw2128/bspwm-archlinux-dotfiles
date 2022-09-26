@@ -26,7 +26,7 @@ format-prefix = " "
 [module/eth]
 type = internal/network
 interface = enp0s20f0u1u1u1
-interval = 3.0
+interval = 10
 
 ;format-connected-underline = #003D96
 format-connected-prefix = " "
@@ -68,7 +68,7 @@ label-indicator-background = ${colors.secondary}
 [module/temp]
 type = custom/script
 exec = ~/.config/polybar/script/temp.sh
-interval = 1
+interval = 5
 
 format = <ramp> <label>
 format-prefix = " "
@@ -78,27 +78,9 @@ format-prefix-foreground = ${color.background}
 format-foreground = ${color.background}
 format-background = ${color.green}
 
-[module/temperature]
-type = internal/temperature
-thermal-zone = 0
-warn-temperature = 60
-
-format = <ramp> <label>
-format-warn = <ramp> <label-warn>
-
-label=%temperature-c%
-label-warn=%temperature-c%
-label-warn-foreground = ${colors.secondary}
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
-format-prefix-foreground = ${color.background}
-format-foreground = ${color.background}
-format-background = ${color.green}
-
 [module/cpu]
 type = internal/cpu
-interval = 2
+interval = 10
 format-prefix = " "
 format-padding = 0
 format-prefix-foreground = ${color.background}
@@ -111,7 +93,7 @@ label = "%{A1:terminal -e gtop &:}%percentage%% %{A}"
 [module/memory]
 type = internal/memory
 
-interval = 1
+interval = 10
 
 format = <label>
 format-prefix = " "
@@ -127,7 +109,7 @@ label = "%{A1:terminal -e htop &:} %mb_used% %{A}"
 type = internal/fs
 
 mount-0 = /
-interval = 30
+interval = 50
 fixed-values = true
 
 format-mounted = <label-mounted>
@@ -206,7 +188,7 @@ full-at = 99
 battery = ${system.battery}
 adapter = ${system.adapter}
 
-poll-interval = 2
+poll-interval = 10
 time-format = %H:%M
 
 format-charging = <animation-charging><label-charging>
@@ -216,7 +198,7 @@ format-discharging = <ramp-capacity><label-discharging>
 
 format-full = <label-full>
 format-full-prefix = " "
-format-full-prefix-font = 2
+format-full-prefix-font = 20
 format-full-prefix-foreground = ${color.background}
 format-full-prefix-background = ${color.green}
 
@@ -299,7 +281,7 @@ ramp-headphones-1 = 
 
 [module/time]
 type = internal/date
-interval = 1
+interval = 2
 format-margin = 0
 time = "%I:%M %p"
 time-alt = "%A, %m/%d/%y"
@@ -335,7 +317,7 @@ click-left = kitty -e nmtui
 type = internal/network
 interface = wlp0s20f3
 
-interval = 1.0
+interval = 10
 accumulate-stats = true
 unknown-as-up = true
 
@@ -370,10 +352,10 @@ ramp-signal-font = 2
 
 [module/mpd]
 type = internal/mpd
-host = 192.168.0.1
+host = 127.0.0.1
 port = 6600
 
-interval = 2
+interval = 10
 
 format-online = <icon-prev> <toggle> <icon-next>
 format-online-prefix = "  "
@@ -444,7 +426,7 @@ enable-scroll = true
 
 format = <ramp> <label>
 format-background = ${color.grey}
-format-padding = 1
+format-padding = 2
 
 label = %percentage%%
 label-foreground = ${color.background}
