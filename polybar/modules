@@ -4,6 +4,19 @@ label = %title:0:60:...%
 
 ;; _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 
+[module/temperature2]
+type = custom/script
+exec = ~/.config/polybar/script/tempcores.sh
+interval = 2
+format-padding = 1
+
+format-prefix-foreground = ${color.background}
+format-foreground = ${color.background}
+format-background = ${color.green}
+#label =  %output:0:150:%
+
+####################################################
+
 [module/count-updates]
 type = custom/script
 exec =  checkupdates | wc -l | awk -v o='%{F#7fff00}' -v r='%{F#A60522}' -v q='%{F#000000}' '{if ($0 > 0) print r " " q "Updates:" $0; else print o " " q "Updates:" $0}'
