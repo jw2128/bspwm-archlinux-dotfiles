@@ -1,0 +1,638 @@
+: 1664135748:0;upgrade_oh_my_zsh
+: 1664135780:0;vim .zshrc
+: 1664135861:0;source .zshrc
+: 1664135876:0;vim .zshrc
+: 1664135933:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh_my_zsh/custom}/plugins/zsh-syntax-highlighting
+: 1664135953:0;vim .zshrc
+: 1664135992:0;source .zshrc
+: 1664136035:0;git clone https://github.com/zsh-users/zsh-autosuggestions.git ${ZSH_CUSTOM:-~/.oh_my_zsh/custom}/plugins/zsh-autosuggestions
+: 1664136063:0;vim .zshrc
+: 1664136116:0;source .zshrc
+: 1664136126:0;sudo pacman -Syu
+: 1664136178:0;chsh -s /bin/zsh
+: 1664136184:0;sudo chsh -s /bin/zsh
+: 1664136190:0;sudo -s
+: 1664136358:0;git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+: 1664136380:0;vim .zshrc
+: 1664136399:0;source .zshrc
+: 1664136495:0;ll
+: 1664136511:0;ls
+: 1664136519:0;vim .bashrc
+: 1664136548:0;vim .zshrc
+: 1664136585:0;source .zshrc
+: 1664136589:0;ll
+: 1664136622:0;nmtui
+: 1664136642:0;neofetch
+: 1664136661:0;vim .config/kitty/kitty.conf
+: 1664136937:0;source .zshrc
+: 1664136943:0;ll
+: 1664136959:0;vim .config/kitty/kitty.conf
+: 1664137030:0;neofetch
+: 1664137065:0;git clone https://aur.archlinux.org/youtube-to-mp3.git
+: 1664137099:0;yay -S youtube-to-mp3
+: 1664137143:0;ll
+: 1664137147:0;cd youtube-to-mp3
+: 1664137161:0;makepkg -ci --skipchecksums
+: 1664137216:0;cd
+: 1664137376:0;sudo pacman -Ss screencasts
+: 1664137419:0;sudo pacman -Ss screencast
+: 1664137455:0;sudo pacman -S community/screenkey
+: 1664137555:0;sudo pacman -Ss screenshot
+: 1664137598:0;sudo pacman -S extra/gnome-screenshot
+: 1664137647:0;vim .config/polybar/modules
+: 1664138518:0;sudo sensors-detect\
+\
+
+: 1664138648:0;pacman -Ss lm_sensors
+: 1664138739:0;sensors
+: 1664138788:0;watch sensors\
+\
+
+: 1664139051:0;\
+ls /sys/class/hwmon
+: 1664139195:0;cd .local/bin
+: 1664139197:0;ll
+: 1664139220:0;vim bar_temp
+: 1664139263:0;cat bar_temp
+: 1664139312:0;cd
+: 1664139381:0;cd .config/polybar/script
+: 1664139382:0;ll
+: 1664139396:0;vim temp
+: 1664139423:0;ll
+: 1664139430:0;chmod +x temp
+: 1664139431:0;ll
+: 1664139435:0;cd
+: 1664139440:0;vim .config/polybar/modules
+: 1664139473:0;ll .config/polybar/script
+: 1664139534:0;cd .config/polybar/script
+: 1664139544:0;mv temp temp.sh
+: 1664139546:0;ll
+: 1664139587:0;cd
+: 1664139636:0;vim .config/polybar/modules
+: 1664139674:0;vim .config/polybar/bars
+: 1664139752:0;vim .config/polybar/modules
+: 1664140543:0;polybar
+: 1664142021:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $4}'
+: 1664142038:0;sensors | grep "Package id 0:" | tr -d '' | awk '{print $4}'
+: 1664142045:0;sensors | grep "Package id 0:" | tr -d '-' | awk '{print $4}'
+: 1664142134:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $3}'
+: 1664142141:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $2}'
+: 1664142145:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $1}'
+: 1664142150:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $4}'
+: 1664142156:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $5}'
+: 1664142163:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $6}'
+: 1664142167:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $7}'
+: 1664142172:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $8}'
+: 1664142197:0;	reboot
+: 1664142242:0;sensors | grep "Package id 0:" | tr -d '+' | awk '{print $4}'
+: 1664142454:0;sudo vim /etc/X11/xorg.conf.d/00-keyboard.conf
+: 1664142477:0;localectl set-x11-keymap us,es
+: 1664142512:0;wal Pictures/Wallpapers/286574.jpg
+: 1664142524:0;wal -i Pictures/Wallpapers/286574.jpg
+: 1664142539:0;ll
+: 1664142583:0;wal -i Pictures/Wallpapers/anime4k.jpg
+: 1664142588:0;ll
+: 1664142591:0;neofetch
+: 1664142606:0;wal -i Pictures/Wallpapers/antarctica.jpg
+: 1664142615:0;wal -i Pictures/Wallpapers/barco.jpg
+: 1664142624:0;wal -i Pictures/Wallpapers/bay.jpg
+: 1664142638:0;wal -i Pictures/Wallpapers/beach.jpg
+: 1664142649:0;wal -i Pictures/Wallpapers/beach1.jpg
+: 1664142659:0;wal -i Pictures/Wallpapers/bm.jpg
+: 1664142677:0;wal -i Pictures/Wallpapers/castillo.jpg
+: 1664142688:0;wal -i Pictures/Wallpapers/anime4k.jpg
+: 1664142695:0;ll Downloads
+: 1664142700:0;ll
+: 1664142717:0;wal -i Pictures/Wallpapers/smoke4k1.jpg
+: 1664142722:0;ll
+: 1664142733:0;ll Downloads
+: 1664142744:0;ll 
+: 1664142754:0;wal -i Pictures/Wallpapers/286574.jpg
+: 1664142759:0;ll
+: 1664142764:0;ll Downloads
+: 1664142827:0;vim .zshrc
+: 1664142860:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664142870:0;reboot
+: 1664142915:0;ll
+: 1664142921:0;neofetch
+: 1664142935:0;vim .config/neofetch/config.conf
+: 1664143009:0;neofetch
+: 1664143104:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664143108:0;reboot
+: 1664143153:0;ll
+: 1664143206:0;wal -i Pictures/Wallpapers/windows4k.jpg
+: 1664143216:0;ll
+: 1664143220:0;ll Downloads
+: 1664143234:0;wal -i Pictures/Wallpapers/teken.jpg
+: 1664143242:0;ll
+: 1664143259:0;ll Downloads
+: 1664143287:0;wal -i Pictures/Wallpapers/sunset.jpg
+: 1664143296:0;wal -i Pictures/Wallpapers/subzero.jpg 
+: 1664143300:0;ll
+: 1664143317:0;wal -i Pictures/Wallpapers/spiderman.jpg
+: 1664143371:0;wal -i Pictures/Wallpapers/smoke4k1.jpg
+: 1664143390:0;history
+: 1664143465:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664143477:0;reboot
+: 1664143511:0;ll
+: 1664143514:0;ll Downloads
+: 1664143604:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664143634:0;ll
+: 1664143637:0;neofetch
+: 1664152905:0;ll
+: 1664153023:0;vim .config/polybar/script/temp.sh
+: 1664153342:0;ll -a
+: 1664153380:0;sudo cp .face.png /root
+: 1664153397:0;sudo cp .oh-my-zsh /root
+: 1664153404:0;sudo cp .oh-my-zsh/ /root
+: 1664153414:0;sudo cp -R .oh-my-zsh/ /root
+: 1664153423:0;sudo cp -R .p10k.zsh /root
+: 1664153433:0;sudo cp -R .shell.pre-oh-my-zsh /root
+: 1664153449:0;sudo cp -R .vim/ /root
+: 1664153467:0;sudo cp -R .zsh_history /root
+: 1664153473:0;sudo cp -R .zshrc /root
+: 1664153478:0;sudo cp -R .zshrc.pre-oh-my-zsh /root
+: 1664153483:0;su -
+: 1664153558:0;wal -i Pictures/Wallpapers/windows4k.jpg
+: 1664153577:0;ll
+: 1664153591:0;wal -i Pictures/Wallpapers/teken.jpg
+: 1664153593:0;ll
+: 1664153633:0;wal -i Pictures/Wallpapers/spiderman.jpg
+: 1664153654:0;wal -i Pictures/Wallpapers/smoke4k.jpg
+: 1664153748:0;wal -i Pictures/Wallpapers/Skulls.jpg
+: 1664153855:0;wal -i Pictures/Wallpapers/shore.jpg
+: 1664153903:0;wal -i Pictures/Wallpapers/shiba4k.jpg
+: 1664153913:0;wal -i Pictures/Wallpapers/samurai.jpg
+: 1664153925:0;wal -i Pictures/Wallpapers/python.jpg
+: 1664153929:0;ll
+: 1664154106:0;wal -i Pictures/Wallpapers/python2.jpg
+: 1664154117:0;wal -i Pictures/Wallpapers/playstation.jpg
+: 1664154126:0;wal -i Pictures/Wallpapers/pfeiffer.jpg
+: 1664154182:0;wal -i Pictures/Wallpapers/panther4k1.jpg
+: 1664154187:0;wal -i Pictures/Wallpapers/panther4k2.jpg
+: 1664154194:0;ll
+: 1664154202:0;ll Downloads
+: 1664154219:0;wal -i Pictures/Wallpapers/panther4k3.jpg
+: 1664154225:0;wal -i Pictures/Wallpapers/panther4k4.jpg
+: 1664154239:0;wal -i Pictures/Wallpapers/pacman.png
+: 1664154258:0;wal -i Pictures/Wallpapers/mountain.jpg
+: 1664154264:0;wal -i Pictures/Wallpapers/mountain4k.jpg
+: 1664154278:0;wal -i Pictures/Wallpapers/mac.jpg
+: 1664154293:0;wal -i Pictures/Wallpapers/life.png
+: 1664154299:0;wal -i Pictures/Wallpapers/lake4k.jpg
+: 1664154307:0;wal -i Pictures/Wallpapers/jurassic.jpg
+: 1664154315:0;wal -i Pictures/Wallpapers/garena.jpg
+: 1664154326:0;wal -i Pictures/Wallpapers/galaxia.png
+: 1664154341:0;wal -i Pictures/Wallpapers/dream.jpg
+: 1664154349:0;wal -i Pictures/Wallpapers/deer.jpg
+: 1664154366:0;wal -i Pictures/Wallpapers/coast.jpg
+: 1664154376:0;wal -i Pictures/Wallpapers/castle4k.jpg
+: 1664154381:0;wal -i Pictures/Wallpapers/castillo.jpg
+: 1664154389:0;wal -i Pictures/Wallpapers/bm.jpg
+: 1664154398:0;wal -i Pictures/Wallpapers/bay.jpg
+: 1664154411:0;wal -i Pictures/Wallpapers/barco.jpg
+: 1664154421:0;wal -i Pictures/Wallpapers/anime4k.jpg
+: 1664154434:0;ll
+: 1664154436:0;ll Downloads
+: 1664154453:0;wal -i Pictures/Wallpapers/panther4k2.jpg
+: 1664154477:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664154489:0;reboot
+: 1664154564:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664154566:0;reboot
+: 1664154609:0;ll
+: 1664154618:0;vim .config/polybar/script/temp.sh
+: 1664154855:0;cut --help
+: 1664154899:0;vim .config/polybar/script/temp.sh
+: 1664156085:0;neofetch
+: 1664156091:0;ll
+: 1664156100:0;sudo pacman -Syu
+: 1664156243:0;wal -i Pictures/Wallpapers/286574.jpg
+: 1664156249:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664156252:0;reboot
+: 1664156302:0;ll
+: 1664156306:0;ll Downloads
+: 1664156311:0;neofetch
+: 1664156356:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664156359:0;reboot
+: 1664161637:0;vim .config/polybar/script/temp.sh
+: 1664162305:0;vim .config/polybar/modules
+: 1664162389:0;vim .config/polybar/script/temp.sh
+: 1664202510:0;yay -Ss cmatrix
+: 1664202526:0;yay -S cmatrix
+: 1664202541:0;cmatrix
+: 1664202837:0;cat /etc/passwd
+: 1664203466:0;cd /run/media/juan/JC/Fedora\ 36\ JC
+: 1664203468:0;ll
+: 1664203492:0;cp -R kvm /home/juan
+: 1664204145:0;cp -R kvm /home/juand
+: 1664204160:0;cd
+: 1664204164:0;cava
+: 1664204171:0;sudo pacman -S cava
+: 1664204180:0;yay -S cava
+: 1664204210:0;cmatrix
+: 1664204215:0;cava
+: 1664204590:0;sudo pacman -S pavucontrol
+: 1664205094:0;cmatrix
+: 1664206031:0;sudo pacman -S obs
+: 1664206037:0;sudo pacman -Ss obs
+: 1664206050:0;sudo pacman -Ss obs-studio
+: 1664206055:0;sudo pacman -S obs-studio
+: 1664210015:0;neofetch
+: 1664210784:0;mpd
+: 1664210799:0;vim .config/mpd/mpd.conf
+: 1664210946:0;mpd
+: 1664210978:0;sudo pacman -Ss wildmidi
+: 1664210985:0;sudo pacman -S wildmidi
+: 1664210991:0;mpd
+: 1664211052:0;ll .config
+: 1664211058:0;ncmpcpp
+: 1664211288:0;vim .config/mpd/mpd.conf
+: 1664211301:0;ncmpcpp
+: 1664211309:0;vim .config/mpd/mpd.conf
+: 1664211347:0;ncmpcpp
+: 1664211358:0;vim .config/mpd/mpd.conf
+: 1664211375:0;ll .config/ncmpcpp
+: 1664211390:0;vim .config/ncmpcpp/config
+: 1664211493:0;sensors
+: 1664212970:0;sudo pacman -Ss nvidia
+: 1664213013:0;sudo pacman -Rns xf86-video-nouveau
+: 1664213045:0;sudo pacman -Rns libvdpau
+: 1664213126:0;vim .config/polybar/modules
+: 1664213154:0;vim .config/mpd/mpd.conf
+: 1664213163:0;mpd
+: 1664213167:0;ncmpcpp
+: 1664213284:0;vim .config/mpd/mpd.conf
+: 1664213312:0;ncmpcpp
+: 1664213349:0;vim .config/mpd/mpd.conf
+: 1664213372:0;vim .config/polybar/modules
+: 1664213392:0;mpd
+: 1664213394:0;ncmpcpp
+: 1664213769:0;vim .config/mpd/mpd.conf
+: 1664213778:0;reboot
+: 1664213865:0;ncmpcpp
+: 1664214490:0;mpc update
+: 1664214503:0;ncmpcpp
+: 1664215809:0;cava
+: 1664215827:0;cmatrix
+: 1664215899:0;systemctl status tlp
+: 1664215999:0;sudo lshw -c video
+: 1664216037:0;sudo ls -c video
+: 1664216051:0;sudo pacman -S lshw
+: 1664216098:0;sudo lshw -c video
+: 1664216212:0;lspci -nnk | grep -i vga -A3 | grep 'in use'
+: 1664216295:0;sudo pacman -Ss noveau
+: 1664216319:0;sudo pacman -Ss nouveau
+: 1664216332:0;sudo pacman -S nouveau
+: 1664216350:0;sudo pacman -S xf86-video-nouveau
+: 1664216534:0;vim .config/polybar/script/temp.sh
+: 1664216559:0;cd .config/polybar/script
+: 1664216561:0;ls
+: 1664216571:0;vim grabacion.sh
+: 1664216628:0;cd
+: 1664216633:0;cd .config/polybar/script
+: 1664216636:0;cd ..
+: 1664216638:0;ll
+: 1664216648:0;vim launch.sh
+: 1664217693:0;ncmpcpp
+: 1664218060:0;wal -i Pictures/abstract-cool-ordered-mind-2048x1197.png
+: 1664218078:0;wal -i Pictures/abstract-follow-the-arrow-5000x3535.jpg
+: 1664218084:0;ll
+: 1664218095:0;wal -i Pictures/abstract-w
+: 1664218099:0;wal -i Pictures/abstract-warm-heart-4560x2160.jpg
+: 1664218111:0;wal -i Pictures/apple.jpg
+: 1664218136:0;wal -i Pictures/arco-wallpaper.jpg
+: 1664218149:0;wal -i Pictures/beautif.jpg
+: 1664218158:0;wal -i Pictures/black-waves.jpg
+: 1664218173:0;wal -i Pictures/cluster-legacy-mono-slate-2560x1440-HD.jpg
+: 1664218185:0;wal -i Pictures/criptica-diethyl-metal-3840x2160.jpg
+: 1664218191:0;ll
+: 1664218210:0;wal -i Pictures/crysis.jpg
+: 1664218227:0;wal -i Pictures/Fallout.jpg
+: 1664218245:0;wal -i Pictures/galaxy-2560x1600.png
+: 1664218253:0;wal -i Pictures/gentoolinux.png
+: 1664218273:0;wal -i Pictures/glorious-voyage-3840x2160.jpg
+: 1664218289:0;ll
+: 1664218452:0;vim .config/polybar/bars
+: 1664218467:0;vim .config/polybar/modules
+: 1664218802:0;wal -i Pictures/green-meadows-3360x1050.jpg
+: 1664218813:0;wal -i Pictures/hobbit.jpg
+: 1664218822:0;wal -i Pictures/holka.jpg
+: 1664218827:0;ll
+: 1664218846:0;wal -i Pictures/japan.jpg
+: 1664218854:0;wal -i Pictures/journey_story-wallpaper-1366x768.jpg
+: 1664218865:0;wal -i Pictures/lake.jpg
+: 1664218885:0;ll
+: 1664218891:0;neofetch
+: 1664218932:0;wal -i Pictures/Machine-Slave-Lapis-1920x1080-HD.jpg
+: 1664218943:0;wal -i Pictures/most.jpg
+: 1664218950:0;wal -i Pictures/nano-schematic-infraorange-3840x2400.jpg
+: 1664218957:0;wal -i Pictures/One.jpg
+: 1664218968:0;wal -i Pictures/prototype-3840x2160-UHD.jpg
+: 1664218982:0;wal -i Pictures/sea-of-mystery-3840x2160.jpg
+: 1664218992:0;wal -i Pictures/space-1.jpg
+: 1664218999:0;ll
+: 1664219008:0;neofetch
+: 1664219025:0;vim .zshrc
+: 1664219397:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664219400:0;reboot
+: 1664219480:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664219547:0;vim .config/polybar/modules
+: 1664219836:0;ll
+: 1664219849:0;ll Downloads
+: 1664219889:0;ll
+: 1664219994:0;ll Downloads
+: 1664220020:0;ll
+: 1664220252:0;ll Downloads
+: 1664220269:0;ll
+: 1664220792:0;neofetch
+: 1664221439:0;pydf -h
+: 1664221457:0;ncmpcpp
+: 1664224002:0;neofetch
+: 1664224280:0;cava
+: 1664224349:0;vim .config/polybar/script/temp.sh
+: 1664224551:0;ll Downloads
+: 1664224566:0;xprop WM_CLASS
+: 1664224599:0;vim .config/sxhkd/sxhkdrc
+: 1664224808:0;wal -i Pictures/Wallpapers/286574.jpg
+: 1664224817:0;cp ~/.cache/wal/colors.Xresources ~/.Xresources\
+
+: 1664226058:0;vim .config/polybar/script/temp.sh
+: 1664226174:0;vim .config/polybar/launch.sh
+: 1664226296:0;vim .config/sxhkd/sxhkdrc
+: 1664226451:0;vim .config/polybar/launch.sh
+: 1664226519:0;vim .config/polybar/script/temp.sh
+: 1664226643:0;reboot
+: 1664226742:0;vim .config/polybar/script/temp.sh
+: 1664226792:0;vim .config/polybar/launch.sh
+: 1664226850:0;ncmpcpp
+: 1664226868:0;cava
+: 1664227322:0;vim .config/polybar/script/temp.sh
+: 1664227546:0;vim .config/polybar/launch.sh
+: 1664227604:0;cat .config/polybar/modules | grep temp
+: 1664227646:0;vim .config/polybar/modules
+: 1664228427:0;vim .config/polybar/launch.sh
+: 1664228456:0;reboot
+: 1664228502:0;vim .config/polybar/modules
+: 1664229240:0;cd .config/polybar/script
+: 1664229242:0;ll
+: 1664229246:0;vim grabacion.sh
+: 1664229313:0;ll
+: 1664229319:0;rm -rf grabacion.sh
+: 1664229322:0;ll
+: 1664229352:0;vim ~/.config/sxhkd/sxhkdrc
+: 1664229684:0;ll
+: 1664229695:0;rm -rf menu_captura
+: 1664229716:0;ll
+: 1664229730:0;vim power.sh
+: 1664230052:0;vim wifi.sh
+: 1664230149:0;cd ..
+: 1664230150:0;ll
+: 1664230154:0;cd
+: 1664230160:0;cd .local/bin
+: 1664230162:0;ll
+: 1664230199:0;vim auto_arranque
+: 1664230221:0;ll wal
+: 1664230225:0;vim wal
+: 1664230237:0;cd
+: 1664230243:0;rm -rf .local/bin
+: 1664230247:0;ll .local
+: 1664230260:0;ncmpcpp
+: 1664230273:0;reboot
+: 1664230348:0;vim .config/polybar/modules
+: 1664230479:0;ncmpcpp
+: 1664230793:0;cava
+: 1664230799:0;cmatrix
+: 1664230810:0;neofetch
+: 1664230846:0;cmatrix
+: 1664230956:0;ncmpcpp
+: 1664231108:0;cmatrix
+: 1664231141:0;yay -Ss unimatrix
+: 1664231156:0;yay -S unimatrix-git
+: 1664231178:0;unimatrix
+: 1664231217:0;yay -Rns unimatrix-git
+: 1664231277:0;ldconfig -p | grep ncurses
+: 1664231348:0;cmatrix [-abBflohnsmVx] [-u update] [-C color]
+: 1664231356:0;cmatrix -C color
+: 1664231380:0;cmatrix -C cyan
+: 1664231392:0;cmatrix -C black
+: 1664231402:0;cmatrix -C green
+: 1664231457:0;cmatrix -u update
+: 1664231488:0;cmatrix -ba -u 2 -C green
+: 1664231536:0;cmatrix -h
+: 1664231576:0;cmatrix -l 
+: 1664231588:0;cmatrix -c
+: 1664231632:0;cmatrix -x
+: 1664231675:0;cmatrix -r
+: 1664231681:0;cmatrix -m
+: 1664231688:0;cmatrix
+: 1664231783:0;cmatrix -lba
+: 1664231830:0;cmatrix -ol
+: 1664231876:0;vim .config/kitty/kitty.conf
+: 1664231994:0;sudo find / | grep material
+: 1664232037:0;fc-list | grep material
+: 1664232069:0;vim .config/kitty/kitty.conf
+: 1664232185:0;ls bspwm-archlinux-dotfiles
+: 1664232206:0;cp -R bspwm-archlinux-dotfiles/kitty/kitty.conf .config/kitty
+: 1664232211:0;reboot
+: 1664232258:0;vim .config/kitty/kitty.conf
+: 1664232275:0;cmatrix
+: 1664232289:0;cmatrix -lba
+: 1664232301:0;vim .config/kitty/kitty.conf
+: 1664232477:0;ll
+: 1664232483:0;ll Downloads
+: 1664232490:0;cmatrix
+: 1664232521:0;ncmpcpp
+: 1664232548:0;cava
+: 1664232554:0;cmatrix
+: 1664232561:0;neofetch
+: 1664232866:0;cmatrix
+: 1664232875:0;history
+: 1664232884:0;cmatrix -lba
+: 1664328064:0;vim .config/polybar/launch.sh
+: 1664328104:0;vim .config/polybar/mod
+: 1664328112:0;vim .config/polybar/modules
+: 1664328289:0;vim .config/polybar/launch.sh
+: 1664328369:0;sudo find / | grep kitty.conf
+: 1664328385:0;cp /usr/share/doc/kitty/html/_downloads/433dadebd0bf504f8b008985378086ce/kitty.conf .config/kitty
+: 1664328408:0;less bspwm-archlinux-dotfiles/kitty/kitty.conf
+: 1664328429:0;vim .config/kitty/kitty.conf
+: 1664328457:0;sudo pacman -SYu
+: 1664328464:0;sudo pacman -Syu
+: 1664328798:0;reboot
+: 1664328840:0;cmatrix
+: 1664328907:0;vim .config/polybar/modules
+: 1664328918:0;vim .config/polybar/bars
+: 1664329129:0;vim .config/polybar/config.ini
+: 1664329181:0;vim .config/polybar/decor
+: 1664329221:0;vim .config/polybar/example
+: 1664329414:0;vim .config/polybar/system
+: 1664329471:0;vim .config/kitty/kitty.conf
+: 1664329604:0;reboot
+: 1664368501:0;sudo pacman -S kolourpaint\
+
+: 1664368516:0;sudo pacman -S pinta\
+
+: 1664368797:0;vim .config/kitty/kitty.conf
+: 1664368843:0;vim bspwm-archlinux-dotfiles/kitty/kitty.conf
+: 1664368905:0;vim .config/kitty/kitty.conf
+: 1664369324:0;ll
+: 1664369333:0;ll Downloads
+: 1664369359:0;ll
+: 1664369392:0;vim .config/kitty/kitty.conf
+: 1664369502:0;ll
+: 1664369517:0;ll Downloads
+: 1664369770:0;cd bspwm-archlinux-dotfiles
+: 1664369856:0;ll
+: 1664369935:0;vim .config/kitty/kitty.conf
+: 1664369985:0;pacman -Ss cpupower-gui
+: 1664369994:0;yay -Ss cpupower-gui
+: 1664370012:0;yay -S cpupower-gui
+: 1664370047:0;yay -Ss thermald
+: 1664370075:0;pacman -Ss thermald
+: 1664370081:0;pacman -S thermald
+: 1664370086:0;sudo pacman -S thermald
+: 1664370091:0;reboot
+: 1664370323:0;sudo thermald
+: 1664370340:0;sudo pacman -Rns thermald
+: 1664370352:0;yay -Rns cpupower-gui
+: 1664370357:0;reboot
+: 1664370479:0;ll
+: 1664370497:0;neofetch
+: 1664370502:0;ll
+: 1664373303:0;neofetch
+: 1664373310:0;cd bspwm-archlinux-dotfiles
+: 1664373386:0;cd
+: 1664373517:0;ll
+: 1664373539:0;neofetch
+: 1664373544:0;cd bspwm-archlinux-dotfiles
+: 1664373550:0;cd
+: 1664373584:0;ll
+: 1664373591:0;neofetch
+: 1664373726:0;ll
+: 1664373889:0;cd bspwm-archlinux-dotfiles
+: 1664373893:0;cd
+: 1664373998:0;sudo vim /etc/X11/xorg.conf.d/00-keyboard.conf
+: 1664374024:0;sudo localectl set-x11-keymap us,es
+: 1664374667:0;ncmpcpp
+: 1664376622:0;vim .config/polybar/modules
+: 1664376685:0;vim .config/polybar/bars
+: 1664376716:0;vim .config/polybar/modules
+: 1664376941:0;vim .config/polybar/script/temp.sh
+: 1664377580:0;vim .config/polybar/bars
+: 1664377622:0;rawData=$( sensors | grep -m 1 Core | awk '{print substr($3, 2, length($3)-5)}' )\
+
+: 1664377731:0;ncmpcpp
+: 1664378148:0;vim .config/polybar/modules
+: 1664378180:0;vim .config/polybar/bars
+: 1664378242:0;vim .config/polybar/modules
+: 1664378583:0;vim .config/polybar/script/tempcores.sh
+: 1664378628:0;chmod +x .config/polybar/script/tempcores.sh
+: 1664378640:0;ll .config/polybar/script/
+: 1664378671:0;vim .config/polybar/bars
+: 1664378782:0;vim .config/polybar/script/tempcores.sh
+: 1664388927:0;yay -Ss gtop
+: 1664390914:0;less .config/neofetch/config.conf
+: 1664457921:0;vim .config/kitty/kitty.conf
+: 1664458231:0;neofetch
+: 1664458249:0;vim .config/kitty/kitty.conf
+: 1664458288:0;vim .config/neofetch/config.conf
+: 1664458336:0;neofetch
+: 1664458637:0;vim .config/neofetch/config.conf
+: 1664458734:0;neofetch
+: 1664458877:0;vim .config/neofetch/config.conf
+: 1664459021:0;neofetch
+: 1664459268:0;vim .config/neofetch/config.conf
+: 1664459444:0;neofetch
+: 1664460500:0;p10k configure
+: 1664460555:0;cp .config/kitty/kitty.conf Documents
+: 1664460624:0;cd bspwm-archlinux-dotfiles
+: 1664460626:0;ls
+: 1664460631:0;cd
+: 1664460637:0;p10k configure
+: 1664461642:0;vim .config/kitty/kitty.conf
+: 1664461666:0;ll .fonts
+: 1664461673:0;neofetch
+: 1664466698:0;yay -S megasync-bin
+: 1664467948:0;vim auto_arranque
+: 1664467970:0;vim .config/bspwm/bspwmrc
+: 1664468017:0;sudo pacman -Syu
+: 1664468083:0;reboot
+: 1664468138:0;cd Pictures/Wallpapers
+: 1664468140:0;ll
+: 1664468156:0;mv arch\ 300.png arch300.png
+: 1664468159:0;ll
+: 1664468166:0;vim .config/bspwm/bspwmrc
+: 1664468176:0;cd
+: 1664468177:0;vim .config/bspwm/bspwmrc
+: 1664468365:0;reboot
+: 1664468705:0;ncmpcpp
+: 1664481947:0;neofetch
+: 1664481991:0;fc-cache -fv
+: 1664482015:0;sudo fc-cache -fv
+: 1664482466:0;sudo pacman -S qemu qemu-guest-agent qemu-arch-extra qemu-block-gluster qemu-block-iscsi samba edk2-ovmf
+: 1664482812:0;sudo systemctl enable --now qemu-guest-agent
+: 1664482917:0;sudo systemctl enable --now libvirtd virtlogd
+: 1664483009:0;sudo pacman -S virt-viewer virt-manager libvirt ebtables dnsmasq bridge-utils openbsd-netcat
+: 1664483091:0;sudo systemctl enable --now libvirtd virtlogd
+: 1664483107:0;sudo systemctl enable --now virtlogd.socket
+: 1664483114:0;sudo systemctl enable --now virtlockd.socket
+: 1664483121:0;sudo pacman -S spice spice-gtk spice-vdagent xf86-video-qxl
+: 1664483135:0;sudo systemctl enable --now spice-vdagentd
+: 1664483153:0;sudo usermod -aG kvm juan
+: 1664483159:0;sudo usermod -aG libvirt juan
+: 1664483171:0;sudo virsh net-list --all
+: 1664483177:0;sudo virsh net-define /etc/libvirt/qemu/networks/default.xml
+: 1664483184:0;sudo virsh net-autostart default
+: 1664483191:0;sudo virsh net-start default
+: 1664483289:0;sudo virsh net-list --all
+: 1664483294:0;sudo pacman -Rsn $(pacman -Qdtq)
+: 1664483377:0;sudo pacman -Syyu
+: 1664483554:0;sudo pacman -S virtualbox
+: 1664484110:0;sudo modprobe vboxdrv
+: 1664484121:0;sudo rcvboxdrv
+: 1664484125:0;ncmpcpp
+: 1664484931:0;sudo modprobe vboxdrv vboxguest vboxsf vboxvideo
+: 1664484939:0;sudo usermod -aG vboxusers juan
+: 1664484945:0;sudo pacman -S virtualbox-guest-iso
+: 1664485401:0;vim .config/bspwm/bspwmrc
+: 1664485479:0;ll Pictures/Fotos\ Resort
+: 1664486232:0;ncmpcpp
+: 1664486276:0;vim
+: 1664486307:0;vim .config/bspwm/bspwmrc
+: 1664486324:0;vim .config/polybar/script/tempcores.sh
+: 1664488804:0;sudo pacman -S cowsay
+: 1664488813:0;cowsay
+: 1664488957:0;cowsay eh mentira? eh mentira? cuanto peluche
+: 1664488967:0;cowsay eh mentira eh mentira cuanto peluche
+: 1664488995:0;vim .zshrc
+: 1664489360:0;cowsay -f dragon
+: 1664489396:0;cowsay -f dragon hola granujas
+: 1664489504:0;cowsay -h
+: 1664489515:0;cowsay --help
+: 1664489555:0;ll /usr/share/cows
+: 1664489611:0;cowsay -f tux hola
+: 1664489782:0;man cowsay
+: 1664489823:0;vim .zshrc
+: 1664489906:0;reboot
+: 1664489935:0;ll /usr/share/cows
+: 1664489949:0;cowsay -f turtle h
+: 1664489969:0;cowsay -f bunny h
+: 1664489979:0;vim .zshrc
+: 1664591530:0;ncmpcpp
+: 1664591940:0;vim /etc/hosts
+: 1664591964:0;sudo vim /etc/hosts
+: 1664592287:0;ssh rhel8master -l root
+: 1664592776:0;sudo vim /etc/hosts
+: 1664592836:0;ssh rhel8master -l root
+: 1664592941:0;vim .zshrc
+: 1664592984:0;ssh rhel8master -l root
