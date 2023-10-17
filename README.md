@@ -1,4 +1,4 @@
- # 🇩🇴 Bspwm + Arch Linux 🇩🇴
+ # 🇩🇴 BSPWM + Arch Linux 🇩🇴
 
 
 Esta es mi configuración personal de Arch Linux + Bspwm + Polybar 
